@@ -1,5 +1,5 @@
-## Hi there 👋/I am Shashank M
-# I am currently pursuing my B.E in Electronics and communications Engineering at GAT Bangalore (Expected-2026)
+<p align="center"> ## Hi there 👋/I am Shashank M </p>
+- I am currently pursuing my B.E in Electronics and communications Engineering at GAT Bangalore (Expected-2026)
 
 <!--
 **shank2374/shank2374** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
