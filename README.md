@@ -1,4 +1,4 @@
-<p align="center"> ## Hi there 👋/I am Shashank M </p>
+ ## Hi there 👋/I am Shashank M 
 - I am currently pursuing my B.E in Electronics and communications Engineering at GAT Bangalore (Expected-2026)
 
 <!--
